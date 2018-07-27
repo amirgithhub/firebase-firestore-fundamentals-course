@@ -1,11 +1,12 @@
-#dashboard{
+#dashboard {
     margin: 30px;
 }
-.table{
+
+.table {
     margin-top: 30px;
 }
 
-.employeeForm{
+.employeeForm {
     margin: 20 80 80 80px;
     display: none;
 }
@@ -14,14 +15,14 @@
     display: none;
 }
 
-div.dropdown-menu a{
-    cursor: pointer;
-} 
-
-td.deleteEmployee{
+div.dropdown-menu a {
     cursor: pointer;
 }
 
-td.editEmployee{
+td.deleteEmployee {
+    cursor: pointer;
+}
+
+td.editEmployee {
     cursor: pointer;
 }
